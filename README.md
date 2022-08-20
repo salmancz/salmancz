@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Salman Cz</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="salmancz" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="center" alt="salmancz" width="100%" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salmancz&label=Profile%20views&color=0e75b6&style=flat" alt="salmancz" /> </p>
 
