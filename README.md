@@ -11,7 +11,8 @@ Curently studying Bachelor of Technology (BE-IT) from KGiSL Institute of Technol
 
 🙋‍♂️ 𝗖𝗼𝗻𝘁𝗮𝗰𝘁 𝗺𝗲 below:
 
-LinkedIn - https://www.linkedin.com/in/salmancz/
-GitHub - https://github.com/salmancz
-Instagram - https://www.instagram.com/thesalmancz/
-Portfolio - https://salmandevee.web.app/
+* LinkedIn - https://www.linkedin.com/in/salmancz/
+* GitHub - https://github.com/salmancz
+* Instagram - https://www.instagram.com/thesalmancz/
+* Portfolio - https://salmandevee.web.app/
+* HackkerRank - https://www.hackerrank.com/salmancz
