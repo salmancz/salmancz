@@ -1,4 +1,3 @@
-[![MasterHead](https://cdn.dribbble.com/users/1124806/screenshots/4871258/ezgif.com-optimize.gif)](https://salmandevee.web.app)
 <h1 align="center">Hi 👋, I'm Salman Cz</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="salmancz" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
