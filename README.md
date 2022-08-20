@@ -1,5 +1,5 @@
 #                   Hi there 👋, I'm Salman!
-<img align="right" alt="salmancz" width="50%" height="auto" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="salmancz" width="50%" margin-left: 1rem height="auto" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 Have exposure♛ to building professional websites🖥 and front-end applications 💻. Experienced with a demonstrated history of working in the information technology and services industries🏢 . Skilled in FrontEnd Technologies✍️ as React.js, Redux, EcmaScript, JavaScript, HTML, CSS, Bootstrap, Flexbox, .GitHub, Net, SQL, and C# for web and window-based applications.
 
